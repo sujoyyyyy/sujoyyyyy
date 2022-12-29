@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 Hello Everyone !! <br>This is Sujoy Mahata, Pursuing Mechanical Engineering from Birla Institute Of Technology, Mesra.<br>I am a second year undergrad having ardent interest in management consulting and web development.<br>I am currently looking forward to work in various projects and improve my skill set.<br>
 
 
@@ -12,11 +12,11 @@ Hello Everyone !! <br>This is Sujoy Mahata, Pursuing Mechanical Engineering from
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujoyyyyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujoyyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sujoyyyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sujoyyyyy&icon=0&color=0)](https://visitcount.itsvg.in)
